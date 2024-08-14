@@ -1,0 +1,25 @@
+.home-container {
+    background-color: #f0f8ff; 
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-container h2 {
+    color: #3b4cca; 
+    font-family: 'Arial', sans-serif;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .home-container p {
+    font-family: 'Arial', sans-serif;
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
